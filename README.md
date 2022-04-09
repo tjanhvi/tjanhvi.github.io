@@ -16,6 +16,3 @@
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-Contributions of any kind welcome!
