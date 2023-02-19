@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://tjanhvi.github.io/sitemap_index.xml
